@@ -1,4 +1,4 @@
-var map = L.map('map-template').setView([20.630103, -103.321758], 10);
+var map = L.map('map-template').setView([20.630103, -103.321758], 2);
 
 const socket = io();
 
